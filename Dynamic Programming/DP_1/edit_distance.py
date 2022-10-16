@@ -1,5 +1,3 @@
-# Uses python3
-
 def edit_distance(s, t):
     l_s = len(s) + 1
     l_t = len(t) + 1

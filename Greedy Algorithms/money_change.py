@@ -1,5 +1,3 @@
-# Uses python3
-
 def get_change(m):
     count = m // 10
     a = m % 10
